@@ -1,0 +1,28 @@
+
+    body {
+      background-color: #d4d7dd;
+    }
+    hr {
+      border-style: none;
+      border-top: dotted;
+      border-color: #C0C0C0;
+      border-width: 5px;
+      width: 5%;
+    }
+    img {
+      height: 220px;
+      border-radius: 75%;
+    }
+    h1 {
+      color: black;
+    }
+    h3 {
+      color: black;
+    }
+    a {
+      text-decoration: none;
+      color: black;
+    }
+  a:hover {
+    color: gray;
+  }
